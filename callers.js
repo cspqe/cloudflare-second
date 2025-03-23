@@ -4,7 +4,7 @@ export const callers = [
     "xkax",           // for second caller
     "https://google.com",           // for google redirect caller
     "zip",           // downloaded file extenson name
-    "zip",           // referer data check
+    "dash",           // referer data check
     ];   
  
  
